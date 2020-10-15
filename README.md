@@ -1,5 +1,7 @@
 # Reversi-Game
 
+https://en.wikipedia.org/wiki/Reversi
+
 It supports play with two players or two computers or 1 user 1 computer You can connect with others by using their IP and port as a client Server just need open that port before you connect. 
 
 Main Board Game board will be a TilePane of 8 rows and 8 columns. The Inset will be 8 pixels. Each element of the board will be a StackPane which contains a Circle shape with a 20px radius and initially a transparent fill color. The background of the TilePane will be filled with green. Each StackPane will have a thin black border around it.
